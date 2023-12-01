@@ -18,7 +18,7 @@
 
  **  Analysis :-
  
- * We analyzed Top 100 products by orders
+ * Analyzed Top 100 products by orders
  * Total cost incurred at each plant
  * Plants which are operating at over-capacity
  * Product with total orders & quantity
