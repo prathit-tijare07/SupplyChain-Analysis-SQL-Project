@@ -1,5 +1,6 @@
 # SupplyChain-Analysis-SQL-Project
-  Tools Used :- MySQL | 
+
+  Tools Used :- MySQL |   
   Date :- 02-12-2023
 
  ** Description :- 
